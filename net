@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Precise Corrections</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Precise Corrections</h1>
+  </header>
+  <section class="hero">
+    <img src="your-image.jpg" alt="Background Image">
+    <div class="contact-container">
+      <a href="tel:7579923997" class="contact-btn">Contact Us (757) 992-3997</a>
+      <a href="mailto:officialprecisecorrections@gmail.com" class="contact-btn">Email Us</a>
+    </div>
+  </section>
+  <section class="services">
+    <h2>Our Services</h2>
+    <div class="service-container">
+      <div class="service">
+        <img src="service-icon-1.png" alt="Pressure Washing Icon">
+        <h3>Pressure Washing</h3>
+      </div>
+      <div class="service">
+        <img src="service-icon-2.png" alt="Landscaping Icon">
+        <h3>Landscaping</h3>
+      </div>
+      <div class="service">
+        <img src="service-icon-3.png" alt="Painting Services Icon">
+        <h3>Painting Services</h3>
+      </div>
+      <div class="service">
+        <img src="service-icon-4.png" alt="Plumbing Icon">
+        <h3>Plumbing</h3>
+      </div>
+      <div class="service">
+        <img src="service-icon-5.png" alt="Flooring Icon">
+        <h3>Flooring</h3>
+      </div>
+      <div class="service">
+        <img src="service-icon-6.png" alt="Drywall Services Icon">
+        <h3>Drywall Services</h3>
+      </div>
+    </div>
+  </section>
+  <section class="mission">
+    <h2>Our Mission</h2>
+    <p>Precise Corrections is dedicated to providing meticulous home improvement services that exceed our customers' expectations. We combine exceptional craftsmanship with clear communication to ensure every project is completed accurately, efficiently, and to the delight of our clients.</p>
+  </section>
+</body>
+</html>
